@@ -36,11 +36,10 @@
 
 ---
 
-## 🛠️ Tech Stack  
 
 ### 💻 Use To Code  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,redux,python,redis,cpp,cs,dotnet" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,python,cpp" /><br/>
   <img src="https://skillicons.dev/icons?i=azure,git,github,figma,docker,vscode" />
 </p>
 
