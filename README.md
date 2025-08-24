@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
-![Banner](https://github.com/user-attachments/assets/1c6ff895-b17c-4662-a8e4-353ffea7d201)  
+![Banner](Uploading ChatGPT Image Aug 24, 2025, 04_47_26 PM.png…]())  
 
-# Hi there 👋, I'm Aditya Singh  
+# Hi there 👋, I'm Aditya Kumar Singh  
 
 
 ### 🚀 Full-Stack Developer | 💻 Tech Explorer | 🎯 Problem Solver  
