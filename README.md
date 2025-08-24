@@ -1,47 +1,65 @@
-<!-- Profile Banner -->
-![Banner](Uploading ChatGPT Image Aug 24, 2025, 04_47_26 PM.png…]())  
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/784c15ce-feb9-4f5a-96e4-1aff36c8777f" alt="Aditya Singh Banner" width="100%" />
+</p>
 
-# Hi there 👋, I'm Aditya Kumar Singh  
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adityasingh2oo4&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Adityasingh2oo4?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-
-### 🚀 Full-Stack Developer | 💻 Tech Explorer | 🎯 Problem Solver  
-
----
-
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
 
 ---
 
-## 🎯 Key Highlights
-- 🌟 75DaysHardPlacementChallenge Participant  
-- 🌟 600DaysOfCode+ on LeetCode  
-- 🏆 Winner of GFG Geekstreak 2024 (21-Day Challenge)  
-- 👨‍💻 400+ Students Guided in DSA, CP, and Web Development  
+## 👨‍💻 About Me  
+
+- 🔭 Currently working on **Full-Stack Projects**  
+- 🌱 Learning **MERN** to expand my skillset  
+- 🥋 Passionate about **Programming** and a strong **Problem-Solving Enthusiast**  
+- 👯 Open to collaborate on **Open Source** and **Web Development Projects**   
+- 👁‍🗨 **What’s special about me?**  
+- ➡️ Ability to quickly learn and master new skills, and apply them to solve real-world problems  
+- 📘 Actively studying new technologies to expand my knowledge base  
+- 💬 Ask me about **React, SQL, MongoDB**  
+- 📫 Reach me at: **adityasohitsingh@gmail.com**  
+ 
 
 ---
 
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 Key Highlights  
+
+- 🌐 Creator of **BlogVerse** – A blogging website for sharing ideas, experiences, and stories  
+- 🎓 Active **Student Placement Coordinator** at University  
+- 💻 Completed **AICTE Certified Web Development Internship** with hands-on project experience  
+- 🛠 Skilled in **HTML, CSS, JavaScript, React, Node.js, Express.js, MySQL, MongoDB**  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+## 🛠️ Tech Stack  
+
+### 💻 Use To Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,redux,python,redis,cpp,cs,dotnet" /><br/>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,figma,docker,vscode" />
+</p>
 
 ---
 
-⭐️ From [Aditya Singh](https://github.com/yourusername)
+## 🔥 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityasingh2oo4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasingh2oo4&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:adityasohitsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-singh-951914303/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
