@@ -1,7 +1,31 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/784c15ce-feb9-4f5a-96e4-1aff36c8777f" alt="Aditya Singh Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/784c15ce-feb9-4f5a-96e4-1aff36c8777f" alt="Aditya Banner" />
 </p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-kumar-singh-951914303/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Adityasingh2oo4/Adityasingh2oo4">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/aditya_singh_oo9">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:adityasohitsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- Typing Text Animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=I'm+Aditya+Kumar+Singh;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  </a>
+</h1>
+
 
 <!-- Badges -->
 <p align="center">
